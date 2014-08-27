@@ -1,0 +1,5 @@
+Git commands 
+git status - status of stuffs
+git add - add files 
+git commit - updates the local branch
+git push - send it to the global master branch
