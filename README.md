@@ -1,4 +1,3 @@
 cse274d
 =======
-
-I am doing my first commit for CSE 274
+Repository of CSE-274 Data Structures homework turnins
